@@ -1,0 +1,30 @@
+.User{
+    box-shadow: 0 2px 3px #EEE;
+    width: 30%;
+    margin: 0px 8%;
+    text-align: center;
+    height: 100%;
+    display: inline-block;
+    border: 1px solid #CCC;
+    box-sizing: border-box;
+    background-color: #CACFD6;
+    border-radius: 5px;
+}
+
+.User img{
+    display: inline-block;
+    height: 45%;
+    width : 80%;
+    margin: 5%;
+    border-radius: 5px;
+}
+
+@media(max-width:500px){
+    .User{
+        display: block;
+        width : 80%;
+        margin : 0px 10% 10px 10%;
+        height: 46%;
+        margin-bottom : 4%;
+    }
+}

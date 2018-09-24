@@ -1,0 +1,14 @@
+.layout{
+    margin : auto;
+    margin-bottom : 10px;
+}
+
+.heading{
+    margin-top : 1%;
+    margin-bottom : 3%;
+}
+
+.suggestions{
+    display: block;
+    margin-bottom : 10px;
+}
